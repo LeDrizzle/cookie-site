@@ -56,3 +56,65 @@ body {
 /******************************************
 /* LAYOUT                   
 /*******************************************/
+
+body {
+     padding: 40px;
+     color: #22313f;
+     background-image: url("../handmadepaper.png");
+     background-repeat: repeat;
+     border: 2px solid #22313f;
+
+}
+
+a{
+     color: #f62459;
+}
+
+.italic {
+     font-style: italic;
+     color: #6c7a89;
+
+}
+img {
+     border: 2px solid #22313f;
+}
+
+p {
+     font-family: Georgia, serif;
+     font-size: 14px;
+     margin-top: 10px;
+}
+
+h1 {
+     font-family: Georgia, serif;
+     font-size: 36px;
+     font-weight: bold;
+     padding-bottom: 10px;
+
+}
+
+h2 {
+     font-family: Helvetica, Arial, sans-serif;
+     font-size: 18px;
+     font-weight: bold;  
+     margin-top: 10px;
+}
+
+ul {
+     font-family: Georgia, serif;
+     font-size: 14px;
+     list-style-type: square;
+     margin-left: 20px;
+     margin-top: 10px;
+}
+
+ol {
+     font-family: Georgia, serif;
+     font-size: 14px;
+     list-style-type: decimal;
+     margin-left: 20px;
+     margin-top: 10px;
+}
+
+
+
